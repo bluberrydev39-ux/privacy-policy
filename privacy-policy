@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { max-width: 800px; margin: 40px auto; font-family: Arial, sans-serif; line-height: 1.6; padding: 0 16px; }
+    h1, h2 { color: #222; }
+    hr { margin: 24px 0; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated:</strong> September 2026</p>
+  <hr>
+
+  <h2>1. Introduction</h2>
+  <p>
+    This Privacy Policy explains how our VR application (“the App”) collects, uses, and protects information
+    when you use it on Meta Quest devices. By using the App, you agree to the practices described in this policy.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+  <h3>2.1 Automatically Collected Data (Unity)</h3>
+  <p>
+    Unity may automatically collect non-personal technical information, including device model, operating system,
+    crash logs, and performance metrics. This data helps improve stability and performance.
+  </p>
+
+  <h3>2.2 Account & Gameplay Data (PlayFab)</h3>
+  <p>
+    If you use online features, PlayFab may collect a player ID, display name, gameplay statistics (scores, progress),
+    session logs, and error reports. PlayFab does not collect real-world personal information unless you explicitly provide it.
+  </p>
+
+  <h3>2.3 No Sensitive Data</h3>
+  <p>
+    The App does not collect real names, email addresses, phone numbers, physical location, payment information,
+    or biometric data.
+  </p>
+
+  <h2>3. How We Use Your Data</h2>
+  <p>
+    Data is used only to enable online features, save gameplay progress, prevent cheating, improve performance,
+    fix bugs and crashes, and maintain server stability. We do not sell or share data with advertisers.
+  </p>
+
+  <h2>4. Third-Party Services</h2>
+  <p>The App uses the following services:</p>
+  <ul>
+    <li><strong>PlayFab (Microsoft)</strong> – player accounts, cloud saves, leaderboards, multiplayer data.</li>
+    <li><strong>Unity Technologies</strong> – engine functionality, crash reporting, performance analytics.</li>
+  </ul>
+  <p>
+    These services may process data on their own servers according to their privacy policies:
+    <br>PlayFab / Microsoft: <a href="https://privacy.microsoft.com/" target="_blank">https://privacy.microsoft.com/</a>
+    <br>Unity: <a href="https://unity.com/legal/privacy-policy" target="_blank">https://unity.com/legal/privacy-policy</a>
+  </p>
+
+  <h2>5. Data Storage & Security</h2>
+  <p>
+    PlayFab stores gameplay data securely on Microsoft Azure servers. Unity stores crash logs and analytics securely
+    on their servers. We do not store data on our own servers. Data is encrypted in transit.
+  </p>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>
+    The App does not knowingly collect personal information from children under 13. If you believe a child has provided
+    personal data, contact us and we will delete it.
+  </p>
+
+  <h2>7. Data Deletion Requests</h2>
+  <p>
+    You may request deletion of your PlayFab account and associated data by contacting us at:
+    <br><strong>Email:</strong> your-email@example.com
+  </p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>
+    We may update this Privacy Policy as needed. The “Last updated” date will reflect the most recent version.
+  </p>
+
+  <h2>9. Contact</h2>
+  <p>
+    If you have questions or concerns, contact us at:
+    <br><strong>Email:</strong> your-email@example.com
+  </p>
+</body>
+</html>
